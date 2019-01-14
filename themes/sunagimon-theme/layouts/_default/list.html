@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+{{ partial "page-title.html" . }}
+
+<section id="blog-full-width">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{ range .Data.Pages }}
+                <article class="wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">
+                    <div class="blog-content">
+                        <h2 class="blogpost-title">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h2>
+                        <div class="blog-meta">
+                            {{ dateFormat "Monday, Jan 2, 2006" .Date }}
+                        </div>
+                        <p>
+                            {{ .Summary }}
+                        </p>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ partial "footer.html" . }}

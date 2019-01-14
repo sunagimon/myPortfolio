@@ -1,2 +1,2 @@
-# myPortfolio
-Portfolio/edit
+# myportfolio
+portfolio/edit

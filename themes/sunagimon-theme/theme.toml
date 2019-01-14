@@ -1,0 +1,12 @@
+name = "Sunagimon theme"
+description = "I made it referencing to the Hugo port of the Themefisher’s Navigator Template"
+
+[author]
+  name = "Takuto Ukawa"
+  homepage = "https://github.io/sunagimon"
+
+[original]
+  name = "Timer Hugo"
+  author = "Themefisher"
+  repo = "https://github.com/themefisher/timer-hugo"
+  homepage = "https://themefisher.com/"
