@@ -28,7 +28,7 @@ theme = "sunagimon-theme"
     description = "sunagimon-theme"
     author = "sunagimon"
     # Google Analitycs
-    googleAnalitycsID = ""
+    googleAnalitycsID = "UA-132429975-1"
 
     # Banner
     [params.banner]
