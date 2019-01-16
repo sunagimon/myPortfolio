@@ -1,13 +1,17 @@
 ---
 title: "Number-Block"
 type: portfolio
-weight: 11
+weight: 20
 description : "Number-Block (2016/09/14)"
-caption: 対戦パズルゲーム
+caption: PVP Puzzleゲーム
 image: images/portfolio/puzzle.png
-creator: 宇川拓人, 岡泰青, 他2名
+creator: 宇川拓人, 岡泰青, 櫻井惇
 release: Septenmber 14, 2016
-media: 
+media: 電気工学特別実験2016
+
+---
+# Movie
+Coming Soon...
 
 ---
 # Tech

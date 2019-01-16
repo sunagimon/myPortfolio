@@ -1,7 +1,7 @@
 ---
 title: "GRot the hand"
 type: portfolio
-weight: 10
+weight: 18
 description : "GRot the hand (2018/07/09)"
 caption: 選択により手を変容させる. Grow or Rot??
 image: images/portfolio/grot.png
