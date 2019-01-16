@@ -1,6 +1,7 @@
 baseURL = "https://sunagimon.github.io"
 languageCode = "en-us"
 title = "Takuto Ukawa (宇川 拓人)'s Portfolio"
+author = "sunagimon"
 theme = "sunagimon-theme"
 
 # Menus
