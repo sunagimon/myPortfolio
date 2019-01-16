@@ -1,7 +1,6 @@
 baseURL = "https://sunagimon.github.io"
 languageCode = "en-us"
 title = "Takuto Ukawa (宇川 拓人)'s Portfolio"
-author = "sunagimon"
 theme = "sunagimon-theme"
 
 # Menus
@@ -48,8 +47,6 @@ theme = "sunagimon-theme"
             title   = "ENGINEER"
         [[params.banner.flipText]]
             title   = "SMOKED FOOD LOVER"
-
-  
 
     # About
     [params.about]
