@@ -3,7 +3,7 @@ title: "渦、それはパーティー"
 type: portfolio
 weight: 15
 description : "渦、それはパーティー (2018/07/09)"
-caption: 空中で渦を描き, 水中に渦を発生させる. 
+caption: 空中で渦を描き, 水中に渦を発生
 image: images/portfolio/vortex.jpg
 creator: 宇川拓人, 橋本健
 release: November 15, 2018
