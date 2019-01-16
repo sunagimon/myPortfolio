@@ -22,5 +22,5 @@ Educational Support System for Penis Stimulation by motion sensor<br>
 
 ---
 # Link
-<a href= "https://sunagimon.github.io/pdf/ESSforPS" target=”_blank”>複合現実感レポート</a><br>
+<a href= "https://sunagimon.github.io/pdf/ESSforPS.pdf" target=”_blank”>複合現実感レポート</a><br>
 <a href= "https://github.com/sunagimon/Ochimpo" target=”_blank”>GitHub/Ochimpo</a>
