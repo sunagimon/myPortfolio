@@ -29,7 +29,7 @@ theme = "sunagimon-theme"
     logo = "images/home/logo.png"
     dateFormat = "6 January 2006"
     # Meta data
-    description = "sunagimon-theme"
+    description = "Takuto Ukawa (宇川 拓人)'s Portfolio"
     author = "sunagimon"
     # Google Analitycs
     googleAnalitycsID = "UA-132429975-1"
