@@ -29,8 +29,9 @@ theme = "sunagimon-theme"
     logo = "images/home/logo.png"
     dateFormat = "6 January 2006"
     # Meta data
-    description = "Takuto Ukawa (宇川 拓人)'s Portfolio"
+    description = "ケセラセラ〜"
     author = "sunagimon"
+    keywords = "宇川拓人, Takuto Ukawa, 東京大学, 小川研究室, Portfolio"
     # Google Analitycs
     googleAnalitycsID = "UA-132429975-1"
 

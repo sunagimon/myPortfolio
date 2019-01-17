@@ -12,7 +12,7 @@ media: ANORON
 ---
 # Comment
 Educational Support System for Penis Stimulation by motion sensor<br>
-タイトル通りの内容である. 下ネタが苦手な方やネタにご理解のない方はブラウザバック推奨<br>
+タイトル通りの内容である. 下ネタが苦手な方やネタにご理解のない方はブラウザバック推奨. <br>
 ネタがご理解できる18歳以上の方<br>
 ---
 はLink先のpdfへ. <br>
