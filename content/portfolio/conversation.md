@@ -3,7 +3,7 @@ title: "Augmented Conversation"
 type: portfolio
 weight: 16
 description : "Augmented Conversation (2018/09/13)"
-caption: 会話支援ARアプリケーション
+caption: コミュニケーションを支援するARアプリ
 image: images/portfolio/conversation.png
 creator: 宇川拓人, 他2名
 release: September 13, 2018

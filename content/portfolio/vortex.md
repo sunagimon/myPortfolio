@@ -3,7 +3,7 @@ title: "渦、それはパーティー"
 type: portfolio
 weight: 15
 description : "渦、それはパーティー (2018/07/09)"
-caption: 空中で渦を描き, 水中に渦を発生
+caption: 空中で渦を描き, 水中に渦を発生する水槽
 image: images/portfolio/vortex.jpg
 creator: 宇川拓人, 橋本健
 release: November 15, 2018
@@ -47,7 +47,8 @@ media: 東京大学制作展 "Dest-logy" REBUILD
 # Tech
 空中で渦を描くことにより水中に渦を発生させる水槽. <br>
 LeapMotionを用い, 手で渦を描く動作を認識している.  <br>
-渦の発生・消滅機構は水槽下の2個の水流発生ポンプの制御と下部に空いた穴により実現している．
+渦の発生・消滅機構は水槽下の2個の水流発生ポンプの制御と下部に空いた穴により実現している．<br>
+ポンプはArduinoの信号からリレー回路を動作させることにより制御している. <br>
 
 ---
 # Comment

@@ -3,7 +3,7 @@ title: "Number-Block"
 type: portfolio
 weight: 20
 description : "Number-Block (2016/09/14)"
-caption: PVP Puzzleゲーム
+caption: PVP型の新たなPuzzleゲーム
 image: images/portfolio/puzzle.png
 creator: 宇川拓人, 岡泰青, 櫻井惇
 release: Septenmber 14, 2016
@@ -22,7 +22,7 @@ enchant.js+JavaScriptで開発したHTMLで動作する全く新しい対戦パ�
 ---
 # Comment
 シンプルなルールであるが, 互いの手札が見えるため戦略性が高いものとなった. <br>
-そのため当時は必勝法が見つからずに, CPU実装を断念した. 
+そのため当時は必勝法が見つからずCPUの実装を断念した. 
 
 ---
 # Link
