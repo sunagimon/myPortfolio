@@ -1,8 +1,8 @@
 ---
-title: "GRot the hand"
+title: "GRot the Hand"
 type: portfolio
 weight: 18
-description : "GRot the hand (2018/07/09)"
+description : "GRot the Hand (2018/07/09)"
 caption: 選択により手を変容させるメディアアート
 image: images/portfolio/grot.png
 creator: 小沢健吾, 宇川拓人, たか友康
@@ -11,7 +11,7 @@ media: 東京大学制作展 Extra "Dest-logy"
 
 ---
 # Movie
-Coming Soon...
+<iframe width = "100%" height = "315" src="https://www.youtube.com/embed/9SQjTPIMsEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 # Caption
