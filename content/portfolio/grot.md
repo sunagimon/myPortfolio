@@ -5,13 +5,13 @@ weight: 18
 description : "GRot the Hand (2018/07/09)"
 caption: 選択により手を変容させるメディアアート
 image: images/portfolio/grot.png
-creator: 小沢健吾, 宇川拓人, たか友康
+creator: 小沢健悟, 宇川拓人, たか友康
 release: July 9, 2018
 media: 東京大学制作展 Extra "Dest-logy"
 
 ---
 # Movie
-<iframe width = "100%" height = "315" src="https://www.youtube.com/embed/9SQjTPIMsEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width = "100%" height = "315" src="https://www.youtube.com/embed/VClDLX14F8o" frameborder="0" allow=" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 # Caption
