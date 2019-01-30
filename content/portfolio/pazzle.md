@@ -5,13 +5,9 @@ weight: 20
 description : "Number-Block (2016/09/14)"
 caption: PVP型の新たなPuzzleゲーム
 image: images/portfolio/puzzle.png
-creator: 宇川拓人, 岡泰青, 櫻井惇
+creator: 宇川拓人, 岡泰青, 櫻井惇, 横山司
 release: Septenmber 14, 2016
 media: 電気工学特別実験2016
-
----
-# Movie
-Coming Soon...
 
 ---
 # Tech

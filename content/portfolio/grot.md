@@ -3,7 +3,7 @@ title: "GRot the Hand"
 type: portfolio
 weight: 18
 description : "GRot the Hand (2018/07/09)"
-caption: 選択により手を変容させるメディアアート
+caption: 選択により手を変容させる装置
 image: images/portfolio/grot.png
 creator: 小沢健悟, 宇川拓人, たか友康
 release: July 9, 2018
