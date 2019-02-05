@@ -22,7 +22,7 @@ theme = "sunagimon-theme"
         name    = "Blog"
         url     = "/blog"
         weight  = 5
-
+  
 # Params
 [params]
     home = "Home"
