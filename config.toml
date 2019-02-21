@@ -22,10 +22,6 @@ theme = "sunagimon-theme"
         name    = "Blog"
         url     = "/blog"
         weight  = 5
-    [[menu.nav]]
-        name    = "VRLab"
-        url     = "/vr"
-        weight  = 6
   
 # Params
 [params]
