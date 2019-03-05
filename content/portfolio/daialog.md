@@ -57,3 +57,5 @@ AIと人は異なるのか？ <br>
 <a href= http://www.tokyoartbeat.com/event/2019/DB2B target=”_blank”>東京アートビート「Eureka」</a>
 
 <a href= https://www.gallerywater.com/exhibition-eureka target=”_blank”>GALLERY WATER「Eureka」</a>
+
+<a href= http://www.shintaroomata.com/artworks target=”_blank”>小俣慎太郎</a>
