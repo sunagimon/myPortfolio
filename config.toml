@@ -41,11 +41,11 @@ theme = "sunagimon-theme"
         bgImage = "images/home/back.jpg"
         icImage = "images/home/icon.jpg"
         heading = "Takuto Ukawa"
-        description = "Master degree Student of the University of Tokyo, Human-Computer Interaction engineer, Smoked food lover"
+        description = "Master degree Student of the University of Tokyo, Human-Computer Interaction creator, Smoked food lover"
         [[params.banner.flipText]]
             title   = "GRADUATE STUDENT"
         [[params.banner.flipText]]
-            title   = "ENGINEER"
+            title   = "CREATOR"
         [[params.banner.flipText]]
             title   = "SMOKED FOOD LOVER"
 
