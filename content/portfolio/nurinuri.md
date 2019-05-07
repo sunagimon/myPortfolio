@@ -3,7 +3,7 @@ title: "ぬりぬりタウン"
 type: portfolio
 weight: 12
 description : "ぬりぬりタウン (2019/05/5)"
-caption: 紙に描かれた物を好きな色に塗り、スクリーン内の街へ出現するシステム
+caption: 紙に描かれた物に色を塗り, スクリーン内の街へ出現させるシステム
 image: images/portfolio/nuri.png
 creator: 小沢健悟, 宇川拓人
 release: May 5, 2019
