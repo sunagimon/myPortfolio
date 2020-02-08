@@ -37,7 +37,7 @@ type: post
 この作品がすごい理由はたくさんあるらしい. <br>
 その中でも技術的に一つ挙げると, 線遠近法(=一点透視図法)を理論化した彼の技術が見れるからである. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/saigo_bansan.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/saigo_bansan.jpg" width="100%" height="100%"><br>
 
 ルネサンス期を終えると, バロック美術が生まれた. <br>
 これについては調べれば調べるほど混沌としていた. <br>
@@ -51,14 +51,14 @@ type: post
 しかし彼はバロック時代に生きていたのでバロック時代を代表する画家とされている. <br>
 今では代表とされているが, 印象派が登場する2世紀後まで大きく日の目を見ることはなかったそうだ. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/baroque.png" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/baroque.png" width="100%" height="100%"><br>
 
 話を戻す. <br>
 豪壮・華麗で, 官能的なバロック様式は繊細で優美なロココ様式へと移り変わった. <br>
 経済・文化的に成熟した社会を背景に, 王権アピールに倦怠していた貴族たちがある種の癒しを求めた結果であるとも言われているらしい. <br>
 フラゴナールの「ブランコ」に表れているように自由, 享楽, 女性的がキーワードだ. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/swing.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/swing.jpg" width="100%" height="100%"><br>
 
 その後, 悪く言えば浮ついていたバロックやロココから一転し, 荘重で格式ばった様式である新古典主義が誕生した. <br>
 ジャック＝ルイ・ダヴィッドの「サビニの女たち」に新古典主義の特徴がよく表れている. <br>
@@ -79,7 +79,7 @@ type: post
 また, ナポレオン・ボナパルトは古代ローマ皇帝に自身を重ねていた. <br>
 この頃から新古典主義はギリシャから英雄主義的な主題を古代ローマの形式を用いて模倣する方向へと移った. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/sabine.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/sabine.jpg" width="100%" height="100%"><br>
 
 時を同じく古代ギリシア・ローマを普遍の理想像とする新古典主義の対立軸とし, 個人の感性に重きを置いたロマン主義が生まれた. <br>
 ロマン主義ではフランス革命やナポレオンの侵略による刺激により芽生えた自我のため, その風土に合わせた多様な作品があるとされる. <br>
@@ -88,14 +88,14 @@ type: post
 同様の特徴を持つバロック美術は宗教画を扱っていたのに対し, ロマン主義では当時の出来事を劇的に描いている. <br>
 ウジューヌ・ドロクワの「民衆を導く自由の女神」が良い例だ. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/revolution.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/revolution.jpg" width="100%" height="100%"><br>
 
 実際の出来事を描くロマン主義からより一層現実に目を向ける傾向が強くなった. <br>
 そして生まれたのが写実主義(=レアリスム)である. <br>
 非日常的な出来事を劇的に描くのではなく, 日常的でありふれたことを忠実に描くことをテーマとする. <br>
 ジャン=フランソワ・ミレーの「落穂拾い」のように庶民の当たり前の労働が描かれることが多かった. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/gleaner.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/gleaner.jpg" width="100%" height="100%"><br>
 
 野外で写実を行なっているうちに風景には決まった色はなく, 光は刻々と変化しているという気づきがあったそうだ. <br>
 こうして, 光のもたらす色彩効果やその印象を表そうと印象主義が生まれた. <br>
@@ -103,7 +103,7 @@ type: post
 混色を避けて絵の具本来の鮮やかさを保つ筆触分割や, 隣り合わせの異なる色彩を遠くから眺めると一つの色に見える視覚混合などの技術的な革新をもたらした. <br>
 その名の由来ともなったクロード・モネの「印象・日の出」に特徴がよく表れている. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/sunrise.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/sunrise.jpg" width="100%" height="100%"><br>
 
 その後, 後期印象主義が台頭してくる. <br>
 これには明確な特徴や分類はないらしい. <br>
@@ -113,7 +113,7 @@ type: post
 この時代には近代絵画への革新をもたらす手法が多く生み出されている. <br>
 例えばポール・セザンヌの「果物籠のある静物」では空間の正確性よりも個の存在感が重視される対象表現が用いられている. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/cezanne.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/cezanne.jpg" width="100%" height="100%"><br>
 
 後期印象主義と同時期に象徴主義が台頭した. <br>
 写実主義に真っ向から反対し, 人間の心理や神秘を表現したイメージ描く様式である. <br>
@@ -123,7 +123,7 @@ type: post
 その結果として不安や生と死, 運命など形ないものを描いたのである. <br>
 有名なエドヴァルド・ムンクの「叫び」も象徴主義を代表するものである. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/scream.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/scream.jpg" width="100%" height="100%"><br>
 
 写実主義からの逸脱という点では似通っているが, 象徴主義のように暗い作風ではない新たな作品が生じた. <br>
 激しいタッチで原色を多用し強烈な色彩を放つ画風は野獣(=フォーブ)と評され, フォーヴィスムとなった. <br>
@@ -181,7 +181,7 @@ type: post
 この展覧会は誰でも参加できる公募展であったが, 議論の末, ただの既製品のトイレにサインしただけの作品は表に展示されることはなかった. <br>
 しかし,「アートとは何か？」という問いかけを生じたのである. <br>
 
-<img src="https://sunagimon.github.io/images/blog/context/fountaine.jpg" width="100%" height="100%">
+<img src="https://sunagimon.github.io/images/blog/context/fountaine.jpg" width="100%" height="100%"><br>
 
 これを境にムーブメントが起こる. <br>
 発掘され尽くした視覚美術を用いず, アートをアートに仕立てるための言葉による説明を加える. <br>
