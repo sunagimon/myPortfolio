@@ -65,6 +65,6 @@ DJのようにスクラッチし, 渦を触れずに操作する. <br>
 # Link
 <a href= https://www.u-tokyo.ac.jp/content/400110616.pdf target=”_blank”>東京大学広報誌 淡青 vol.38　2019.03</a> 
 
-<a href= http://www.iiiexhibition.com/ target=”_blank”>東京大学制作展 "Dest-logy" REBUILD</a> 
+<a href= http://iiiexhibition.com/log/i3e20/#modal_work8 target=”_blank”>東京大学制作展 "Dest-logy" REBUILD</a> 
 
 <a href= https://takeruace.github.io/#about target=”_blank”>橋本健</a>

@@ -1,3 +1,7 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
 {{ if .Site.Params.portfolio.enable }}
 {{ "<!-- Portfolio Section Start -->" | safeHTML }}
 <section id="works" class="works">
@@ -36,4 +40,8 @@
     </div>
 </section>
 {{ "<!-- Portfolio Section End -->" | safeHTML }}
+{{ end }}
+
+{{ partial "cta.html" . }}
+
 {{ end }}

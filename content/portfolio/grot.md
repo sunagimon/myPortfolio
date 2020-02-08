@@ -48,3 +48,5 @@ LeapMotionを用いて手の動きをセンシングし, Unity上で手や概念
 <a href= http://iiiexhibition.com/log/iiiEx2018/#modal_work6 target=”_blank”>東京大学制作展 Extra "Dest-logy"</a> 
 
 <a href= https://zawazawagh.github.io/zawazawa/ target=”_blank”>小沢健悟</a>
+
+<a href= http://taka-chin.com/ target=”_blank”>たか友康</a>

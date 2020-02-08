@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Takuto Ukawa (宇川 拓人)'s Portfolio"
 theme = "sunagimon-theme"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 # Menus
 [menu]
     # Navbar Menus

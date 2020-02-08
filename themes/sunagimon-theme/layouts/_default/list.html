@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 {{ partial "page-title.html" . }}
 
@@ -20,4 +20,7 @@
         </div>
     </div>
 </section>
-{{ partial "footer.html" . }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}
