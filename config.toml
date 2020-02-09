@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Takuto Ukawa | 宇川 拓人 Portfolio"
 theme = "sunagimon-theme"
 
+[taxonomies]
+
 [markup.goldmark.renderer]
   unsafe = true
 
@@ -34,7 +36,7 @@ theme = "sunagimon-theme"
     # Meta data
     description = "宇川拓人(Takuto Ukawa)のポートフォリオです. 関わった制作物などを紹介してます."
     author = "sunagimon"
-    keywords = "宇川拓人, Takuto Ukawa, 東京大学, 小川研究室, Portfolio"
+    keywords = "宇川拓人, Takuto Ukawa, 東京大学, sunagimon"
     # Google Analitycs
     googleAnalitycsID = "UA-132429975-1"
 
