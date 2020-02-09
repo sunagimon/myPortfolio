@@ -38,6 +38,11 @@ a:hover {
   text-decoration: none;
 }
 
+a:link { color: rgb(65, 29, 29); }
+a:visited { color: #333; }
+a:hover { color: #ff0000; }
+a:active { color: #ff8000; }
+
 .slick-slide:focus {
   outline: 0;
 }
