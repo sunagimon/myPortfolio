@@ -203,7 +203,7 @@ a:active { color: #ff8000; }
 }
 
 .top-bar.animated-header {
-  padding: 20px 0;
+  padding: 0px 0;
   background: #fff;
   box-shadow: none;
 }
