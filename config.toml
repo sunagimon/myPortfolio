@@ -31,7 +31,7 @@ theme = "sunagimon-theme"
 # Params
 [params]
     home = "Home"
-    logo = "images/home/logo.png"
+    logo = "images/home/logo.svg"
     dateFormat = "6 January 2006"
     # Meta data
     description = "宇川拓人(Takuto Ukawa)のポートフォリオです. 関わった制作物などを紹介してます."
