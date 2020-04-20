@@ -2,16 +2,15 @@
 {{ "<!-- About Section Start -->" | safeHTML }}
 <section id="about">
     <div class="container">
+        {{ with .Site.Params.about.title }}<h2 class="title wow fadeInDown" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
         <div class="row">
             <div class="col-sm-6">
                 <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
-                    {{ with .Site.Params.about.title }}<h2>{{ . }}</h2>{{ end }}
                     {{ with .Site.Params.about.content }}<p>{{ . | safeHTML }}</p>{{ end }}
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                    {{ with .Site.Params.about.title_ }}<h2>{{ . }}</h2>{{ end }}
                     {{ with .Site.Params.about.econtent }}<p>{{ . | safeHTML }}</p>{{ end }}
                     <section id = "works-jump"></section>
                 </div>
