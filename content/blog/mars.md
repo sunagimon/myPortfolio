@@ -59,7 +59,7 @@ iPhone 12 Proで<a href="https://apps.apple.com/jp/app/3d-scanner-app/id14199139
 Photogrammetryではこう簡単にはいかない. <br>
 さすがはLiDARである. <br>
 
-<img src="https://sunagimon.github.io/images/blog/mars/scan.jpg" width="50%" height="50%"><br>
+<img src="https://sunagimon.github.io/images/blog/mars/scan.jpg" width="40%" height="40%"><br>
 
 生成した3Dモデルを下図に示す. <br>
 自室をグリグリ動かし見て回れるのは面白い. <br>
@@ -68,9 +68,9 @@ dToFではなく, 受信光の位相差を測定するiToF方式であればも�
 これは私の問題であるが, 家具のほとんどが光を反射しにくい黒を基調しているのでテーブルの足などはうまくスキャンされなかった...<br>
 エクスポートはShareを押し, Texturedオプションを忘れないようにOBJ形式を選択する. <br>
 
-<img src="https://sunagimon.github.io/images/blog/mars/scan_room1.jpg" width="60%" height="60%"><br>
+<img src="https://sunagimon.github.io/images/blog/mars/scan_room1.jpg" width="30%" height="30%"><br>
 
-<img src="https://sunagimon.github.io/images/blog/mars/scan_room2.jpg" width="60%" height="60%"><br>
+<img src="https://sunagimon.github.io/images/blog/mars/scan_room2.jpg" width="30%" height="30%"><br>
 
 続いてUnity MARS側の準備へ移る. <br>
 詳しい導入手順や説明は<a href="https://youtu.be/9h5TUiIf-Ks" target="_blank">Unity Japan公式のセミナー</a>参照. <br>
@@ -166,7 +166,7 @@ UnityとUnity MARSは別扱いらしい. <br>
 ちなみに実機にビルドして実世界でアプリの動作確認をしてみた様子がこちらである. <br>
 シミュレーションと同じ場所でユニティちゃんを出してみた. <br>
 
-<img src="https://sunagimon.github.io/images/blog/mars/build_ver.jpg" width="90%" height="90%"><br>
+<img src="https://sunagimon.github.io/images/blog/mars/build_ver.jpg" width="70%" height="70%"><br>
 
 うーん, シミュレーション通り! <br>
 
