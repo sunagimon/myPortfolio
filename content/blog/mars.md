@@ -5,7 +5,7 @@ description : "2020,12,19"
 type: post
 ---
 
-これはアドベントカレンダー <a href="https://adventar.org/calendars/5825" target="_blank">ほぼ厚木の民</a> の19日目記事です。
+これはアドベントカレンダー <u><a href="https://adventar.org/calendars/5825" target="_blank">ほぼ厚木の民</a></u> の19日目記事です。
 
 #### 概要  
 iPhone 12 Pro (LiDAR) を使い空間スキャンし得られた現実環境3DモデルとUnity MARSでお手軽に仮想実環境ARシミュレーションをしてみた. <br>
@@ -22,7 +22,7 @@ ARアプリ開発では実機にビルドし, 現実環境へカメラを向け�
 これはめんどうだ. <br>
 
 #### Unity MARSってなに  
-<a href="https://unity.com/products/unity-mars" target="_blank">Unity MARS</a>は2020年6月にリリースされた新しいAR開発フレームワークだ. <br>
+<u><a href="https://unity.com/products/unity-mars" target="_blank">Unity MARS</a></u>は2020年6月にリリースされた新しいAR開発フレームワークだ. <br>
 ARKitやARCoreなどをさらに抽象化し誰でも使えるようにしている. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/mars_system.jpg" width="50%" height="50%"><br>
@@ -48,7 +48,7 @@ LiDAR : Light Detection and Ranging はレーダー光を利用し対象との�
 
 #### 仮想実環境ARシミュレーション準備編  
 まずは現実環境の3Dモデル化をする. <br>
-iPhone 12 Proで<a href="https://apps.apple.com/jp/app/3d-scanner-app/id1419913995" target="_blank">3D Scanner App</a>を使用しスキャン, 3Dモデルの生成を行った. <br>
+iPhone 12 Proで<u><a href="https://apps.apple.com/jp/app/3d-scanner-app/id1419913995" target="_blank">3D Scanner App</a></u>を使用しスキャン, 3Dモデルの生成を行った. <br>
 意外なことにApple純正のLiDARアプリはない(ないですよね？). <br>
 今回は評判が良い3rd party製の無料アプリを使ってみた. <br>
 
@@ -73,8 +73,8 @@ dToFではなく, 受信光の位相差を測定するiToF方式であればも�
 <img src="https://sunagimon.github.io/images/blog/mars/scan_room2.jpg" width="30%" height="30%"><br>
 
 続いてUnity MARS側の準備へ移る. <br>
-詳しい導入手順や説明は<a href="https://youtu.be/9h5TUiIf-Ks" target="_blank">Unity Japan公式のセミナー</a>参照. <br>
-あと, <a href="https://docs.unity3d.com/Packages/com.unity.mars@1.2/manual/index.html" target="_blank">公式ドキュメント</a>が充実しているのでここを見ればだいたいのことが書いてあります. ( ~~私のこの記事いらない~~ )<br>
+詳しい導入手順や説明は<u><a href="https://youtu.be/9h5TUiIf-Ks" target="_blank">Unity Japan公式のセミナー</a></u>参照. <br>
+あと, <u><a href="https://docs.unity3d.com/Packages/com.unity.mars@1.2/manual/index.html" target="_blank">公式ドキュメント</a></u>が充実しているのでここを見ればだいたいのことが書いてあります. ( ~~私のこの記事いらない~~ )<br>
 
 Unity 2019.3.15f1 (2019.3.xならOK) で新規プロジェクトを作成し, Unity MARSを導入する. <br>
 今回実装するARアプリは平面を検出し3Dオブジェクトを出現させるシンプルなものである. <br>
