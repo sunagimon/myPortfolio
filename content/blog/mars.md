@@ -1,6 +1,6 @@
 ---
 title: "仮想実環境ARシミュレーションしてみた話"
-date: 2020-11-19T00:00:15+09:00
+date: 2020-12-19T00:00:15+09:00
 description : "2020,12,19"
 type: post
 ---
@@ -69,6 +69,7 @@ dToFではなく, 受信光の位相差を測定するiToF方式であればも�
 エクスポートはShareを押し, Texturedオプションを忘れないようにOBJ形式を選択する. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/scan_room1.jpg" width="60%" height="60%"><br>
+
 <img src="https://sunagimon.github.io/images/blog/mars/scan_room2.jpg" width="60%" height="60%"><br>
 
 続いてUnity MARS側の準備へ移る. <br>
@@ -84,6 +85,7 @@ HierarchyにHorizontal PlaneとMARS Sessionが追加されるので, Horizontal 
 ここではユニティちゃんを追加した. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/mars_panel.jpg" width="50%" height="50%"><br>
+
 <img src="https://sunagimon.github.io/images/blog/mars/unity_chan.jpg" width="50%" height="50%"><br>
 
 以上で完成である. <br>
