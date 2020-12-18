@@ -8,7 +8,7 @@ type: post
 この記事はアドベントカレンダー <a href="https://adventar.org/calendars/5825" target="_blank">ほぼ厚木の民</a> の19日目記事です。
 
 #### 概要  
-iPhone 12 Pro (LiDAR) を使い空間スキャンし得られた実環境3DモデルとUnity MARSでお手軽に仮想実環境ARシミュレーションをしてみた. <br>
+iPhone 12 Pro (LiDAR) を使い空間スキャンし得られた現実環境3DモデルとUnity MARSでお手軽に仮想実環境ARシミュレーションをしてみた. <br>
 
 #### ARのシミュレーションはめんどう  
 現在, シンプルなARアプリを開発するのはARKitやARCoreなどのフレームワークが充実しているため容易と言えるだろう. <br>
@@ -29,7 +29,7 @@ ARKitやARCoreなどをさらに抽象化し誰でも使えるようにしてい
 
 Unity MARS最大の特徴(私が思う)は仮想環境でのシミュレーションが可能という点である. <br>
 現実環境の代わりにUnityエディタ内で再現された仮想環境にて動作確認できる. <br>
-室内, 公園, 工場などスケールやシュチュエーションが異なる20種類ほどの環境が用意されている. <br>
+室内, 公園, 工場などスケールやシチュエーションが異なる20種類ほどの環境が用意されている. <br>
 
 
 #### LiDARが身近に  
@@ -39,15 +39,15 @@ LiDAR : Light Detection and Ranging はレーダー光を利用し対象との�
 反射した光が戻ってくるまでの時間から距離計算を行う方式であり, 外光に強く長距離での計測も可能である. <br>
 
 これによりセンシングで得られた情報からメッシュ生成, テクスチャ生成し3Dモデルを作り出す. <br>
-スマホ1台で手軽に現実世界を3Dモデル化することができるのだ. <br>
+スマホ1台で手軽に現実環境を3Dモデル化することができるのだ. <br>
 
 
 #### 目的  
-導入が長くなったが, やりたいことはスマホで現実世界をスキャンして3Dモデル化し, それを仮想環境としてUnity MARSでARシミュレーションだ. <br>
-これにより任意の実環境でのARシミュレーションがいつでもどこでも簡単に行える. <br>
+導入が長くなったが, やりたいことはスマホで現実環境をスキャンして3Dモデル化し, それを仮想実環境としてUnity MARSでARシミュレーションするだ. <br>
+これにより任意の現実環境でのARシミュレーションがいつでもどこでも簡単に行える. <br>
 
 #### 仮想実環境ARシミュレーション準備編  
-まずは実環境の3Dモデル化をする. <br>
+まずは現実環境の3Dモデル化をする. <br>
 iPhone 12 Proで<a href="https://apps.apple.com/jp/app/3d-scanner-app/id1419913995" target="_blank">3D Scanner App</a>を使用しスキャン, 3Dモデルの生成を行った. <br>
 意外なことにApple純正のLiDARアプリはない(ないですよね？). <br>
 今回は評判が良い3rd party製の無料アプリを使ってみた. <br>
@@ -93,7 +93,7 @@ HierarchyにHorizontal PlaneとMARS Sessionが追加されるので, Horizontal 
 簡単すぎる. すごいぞMARS. <br>
 
 
-今回は実環境3Dモデルでのシミュレーションがメインなのでまだ続く. <br>
+今回は仮想実環境でのシミュレーションがメインなのでまだ続く. <br>
 
 3D Scanner Appから出力されたファイルを追加する. <br>
 おそらく以下のような構成になっている. <br>
@@ -111,7 +111,7 @@ Project viewを右クリックし, Create -> MARS -> Simulated Environment Prefa
 Simulated Environment Prefabをシーンに追加し3Dモデル(textured_object)を子オブジェクトに加える. <br>
 3Dモデルにシミュレーションに必要なScriptだけを追加するのでも問題ないが, このやり方が一番手っ取り早いと思われる. <br>
 
-<img src="https://sunagimon.github.io/images/blog/mars/simulated_object.jpg" width="30%" height="80%"><br>
+<img src="https://sunagimon.github.io/images/blog/mars/simulated_object.jpg" width="30%" height="30%"><br>
 
 Simulated Environment Prefabの名前を適当に変更し(MyRoomとした), 再びPrefab化する. <br>
 シーン上のMyRoomは必要ないので消しても問題ない. <br>
@@ -139,8 +139,8 @@ Device Viewを開き, Device View内の再生ボタンをクリックする. <br
 
 <img src="https://sunagimon.github.io/images/blog/mars/plane_setting.jpg" width="50%" height="50%"><br>
 
-3Dモデル内を動くことができるので動き, 見渡すことで平面を検出していく. <br>
-現実世界で平面検出をするのと同じ要領でできる. <br>
+仮想環境内を動くことができるので動き, 見渡すことで平面を検出していく. <br>
+現実環境で平面検出をするのと同じ要領でできる. <br>
 見つけた平面はマークされるのでわかりやすい. <br>
 MARS Environment SettingコンポーネントのSave Planes From Simulationをクリックする. <br>
 これで準備は整った. <br>
@@ -163,7 +163,7 @@ UnityとUnity MARSは別扱いらしい. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/complete.jpg" width="90%" height="90%"><br>
 
-ちなみに実機にビルドして実世界でアプリの動作確認をしてみた様子がこちらである. <br>
+ちなみに実機にビルドして現実環境でアプリの動作確認をしてみた様子がこちらである. <br>
 シミュレーションと同じ場所でユニティちゃんを出してみた. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/build_ver.jpg" width="70%" height="70%"><br>
