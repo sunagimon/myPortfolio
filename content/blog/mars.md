@@ -101,14 +101,14 @@ HierarchyにHorizontal PlaneとMARS Sessionが追加されるので, Horizontal 
 <img src="https://sunagimon.github.io/images/blog/mars/texture_object.jpg" width="60%" height="60%"><br>
 
 textured_outputをシーンへ追加する. <br>
-このままではせっかくつけた色が見えないのでShaderをUnlit/Textureへ変える. <br>
+このままではせっかくつけた色が見れないのでShaderをUnlit/Textureへ変える. <br>
 これでスキャンした3DモデルがしっかりUnity上で確認できる. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/import_myroom.jpg" width="80%" height="80%"><br>
 
 追加した3DモデルでUnity MARSのARシミュレーションが行えるよう準備を進める. <br>
 Project viewを右クリックし, Create -> MARS -> Simulated Environment Prefabを選択する. <br>
-Simulated Environment Prefabをシーンに追加し3Dモデル(textured_object)を子オブジェクトに加える. <br>
+Simulated Environment Prefabをシーンに追加し3Dモデル(textured_output)を子オブジェクトに加える. <br>
 3Dモデルにシミュレーションに必要なScriptだけを追加するのでも問題ないが, このやり方が一番手っ取り早いと思われる. <br>
 
 <img src="https://sunagimon.github.io/images/blog/mars/simulated_object.jpg" width="30%" height="30%"><br>
